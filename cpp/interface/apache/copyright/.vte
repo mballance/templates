@@ -1,0 +1,8 @@
+
+template:
+  description: Creates a C++ interface class (.h), optionally inside a namespace with Apache license
+  parameters:
+  - name: NS
+    description: "Class namespace"
+    default: ""
+

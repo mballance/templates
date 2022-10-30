@@ -1,0 +1,8 @@
+
+template:
+  description: Creates a C++ class (.cpp/.h), optionally inside a namespace
+  parameters:
+  - name: NS
+    description: "Class namespace"
+    default: ""
+

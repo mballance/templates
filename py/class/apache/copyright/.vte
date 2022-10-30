@@ -1,0 +1,5 @@
+
+template:
+  description: Creates a Python class with Apache license
+  parameters: []
+
