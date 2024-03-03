@@ -1,0 +1,5 @@
+
+template:
+  description: Creates a SystemVerilog package (.sv)
+  parameters: []
+

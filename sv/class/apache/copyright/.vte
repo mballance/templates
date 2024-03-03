@@ -1,0 +1,5 @@
+
+template:
+  description: Creates a SystemVerilog class (.svh)
+  parameters: []
+
